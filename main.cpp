@@ -1,3 +1,7 @@
+//Marcia Gutiérrez Castillo
+//Frans Trujillo Flores
+//Frank Calef Bustamante Mauricio
+
 #include <iostream>
 
 struct TreeNode {
