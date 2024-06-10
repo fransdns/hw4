@@ -130,6 +130,6 @@ int main() {
 
     std::cout << "Inorder traversal of the constructed AVL tree is \n";
     tree.printInOrder();
-
-    return 0;
+    
+    return 0;
 }
